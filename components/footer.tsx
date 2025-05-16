@@ -74,9 +74,6 @@ export default function Footer() {
                 </Link>
               </li>
               <li>
-                <Link href="/academics" className="text-blue-200 hover:text-white transition-colors">
-                  Extracurricular Activities
-                </Link>
               </li>
               <li>
                 <Link href="/admissions" className="text-blue-200 hover:text-white transition-colors">
@@ -103,7 +100,7 @@ export default function Footer() {
               </li>
               <li className="flex items-center">
                 <Mail className="h-5 w-5 text-blue-200 mr-2" />
-                <span className="text-blue-200">communication@sga.com</span>
+                <span className="text-blue-200">communication@smartgemacademy.com</span>
               </li>
             </ul>
           </div>
